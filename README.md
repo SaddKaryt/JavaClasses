@@ -1,4 +1,0 @@
-JavaClasses
-===========
-
-My Java Developments
